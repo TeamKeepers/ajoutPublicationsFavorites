@@ -1,4 +1,4 @@
-<a href="www.keepizi.com"><img src="https://www.keepizi.com/wp-content/uploads/2018/08/Logo-Keepizi_violet_mobile.png" title="Keepizi" alt="Keepizi"></a>
+<a href="https://www.keepizi.com"><img src="https://www.keepizi.com/wp-content/uploads/2018/08/Logo-Keepizi_violet_mobile.png" title="Keepizi" alt="Keepizi"></a>
 
 ***Exercice de mise en ligne d'un projet AJAX via Git***
 
