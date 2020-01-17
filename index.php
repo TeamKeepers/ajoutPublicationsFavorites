@@ -25,6 +25,8 @@
     //     }
     // }
 
+    // CECI EST UN NOUVEAU COMMENTAIRE
+
 ?>
 <!DOCTYPE html>
 <html lang="fr">
